@@ -112,7 +112,3 @@ Puede desplegar la función utilizando la extensión de Azure Functions en VS Co
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Si desea mejorar este proyecto, por favor, siéntase libre de hacer un fork del repositorio, crear una nueva rama y enviar un Pull Request.
-
-## 📄 Licencia
-
-Este proyecto no especifica una licencia. Considere añadir un archivo `LICENSE` para aclarar los términos bajo los cuales otros pueden usar y distribuir su código.
